@@ -2,3 +2,5 @@ Hello batch14 from GitHub directory.
 
 __
 hello from vs code now.
+
+dont click on the sync.
